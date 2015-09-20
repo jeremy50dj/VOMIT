@@ -1,0 +1,11 @@
+g=get
+k=keep
+n=numerator
+v=voice
+if g=n and k=g then let
+v= k * n = vomit
+run
+
+
+
+exit
